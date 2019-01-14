@@ -1,0 +1,40 @@
+.menu-nav {
+	background: #000;
+	width: 100%;
+	margin: auto;
+}
+
+header img{
+	width: 750px;
+}
+
+li.btn {
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	justify-content: space-around;
+	margin: 10px;
+}
+
+li.btn a{
+	color: white;
+	font-size: 50px;
+	text-decoration: none;
+	background-color: #77285B;
+}
+
+img.portrait{
+	float: left;
+	margin-right: 20px;
+}
+
+div.sponso img{
+	margin-left: 10%;
+	width: 350px;
+}
+
+div.reseau img{
+	margin-left: 10%;
+	width: 100px;
+	border-radius: 8px;
+}
