@@ -1,4 +1,4 @@
-li.btn:hover a{
+.nav_btn:hover a{
 	opacity: 0.4
 	transition: 0.3s all;
 	padding: 10px; 
