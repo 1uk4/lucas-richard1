@@ -13,13 +13,13 @@ header {
 	text-align: center;
 }
 
-h4{
+h4 {
 	margin-left: 10%;
 	font-size: xx-large;
 	text-decoration: underline;
 }
 
-p{
+p {
 	width: 80%
 	background-color: #6C6C6C;
 	width: 80%;
@@ -28,6 +28,6 @@ p{
 }
 
 
-footer{
+footer {
 	background-color:#282D2D;
 }
